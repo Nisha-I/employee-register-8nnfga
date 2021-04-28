@@ -1,0 +1,8 @@
+@import "~ngx-toastr/toastr.css";
+
+input.ng-dirty.ng-invalid{
+  border:1px solid red;
+}
+button:hover, a.button:hover {
+  cursor: pointer
+}
